@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "who.int.neutenet.xyz"; // Ganti dengan domain utama kalian
+const rootDomain = "who.int.eth.neutenet.xyz"; // Ganti dengan domain utama kalian
 const serviceName = "cdn"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
